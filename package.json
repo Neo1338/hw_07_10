@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cat-age-calculator": "^1.0.6"
+    "cat-age-calculator": "^1.0.6",
+    "requirejs": "^2.3.6"
   }
 }
